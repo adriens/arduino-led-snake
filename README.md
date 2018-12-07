@@ -1,5 +1,4 @@
 # arduino-led-snake
 
-![Diagram](arduino-led-snake.png)
+![Diagram](https://media.giphy.com/media/2tRpUSuIB1RPC24zhk/giphy.gif)
 
-[![Diagram](arduino-led-snake.png)](https://youtu.be/TKqQl3BwDZ4)
